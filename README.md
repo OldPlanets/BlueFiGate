@@ -74,4 +74,4 @@ Edit `config.h` to set:
 
 ## Disclaimer
 
-This project provides practical security against casual interference but is not military-grade protection. Determined attackers with sufficient resources can find ways around (jamming, race conditions etc)
+This project provides practical security against casual interference but is not military-grade protection. Determined attackers with sufficient resources can find ways around (jamming, race conditions etc).
