@@ -1,6 +1,6 @@
 # BlueFiGate - WattCycle Battery BMS Bridge
 
-A small WiFi-to-Bluetooth bridge for WattCycle Smart Batteries that provides web-based monitoring and secures your battery against unauthorized access.
+A small Bluetooth-to-WiFi bridge for WattCycle Smart Batteries that provides web-based monitoring and secures your battery against unauthorized access.
 
 ## Overview
 
